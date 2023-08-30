@@ -1,0 +1,3 @@
+# Cs.cfg
+
+1920 X 1080 SCREEN ONLY 
